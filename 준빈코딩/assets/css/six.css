@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+
+body {
+  margin: 0;
+  background:white;
+  
+}
+.container {
+  width: 100vw;
+  height: 100vh;
+}
+.top-picture {
+  position: relative;
+  text-align: center;
+
+}
+.top-word {
+  position: relative;
+  font-size: 22px;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  margin-top: 63px;
+  margin-left: 16px;
+  font-family: 'Noto Sans KR', sans-serif;
+  }
+
+   .backx
+  {
+    position: relative;
+    text-align:  center;
+    left: -160px;
+    top: -200px;
+  }
+  .alal
+  {
+    position: relative;
+    text-align:  center;
+    right: -160px;
+    top: -226px;
+  }
+
+
+  .second-word {
+    position: relative;
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    font-family: 'Noto Sans KR', sans-serif;
+    }
+    .second-box {
+    position: relative;
+    text-align: center;
+    top: -160px;
+    }
+  .third-word {
+    position: relative;
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    font-family: 'Noto Sans KR', sans-serif;
+    }
+    *{
+      margin: 0;
+      padding: 0;
+      font-family: 'Noto Sans KR', sans-serif;
+      list-style: none;
+      text-decoration: none;
+
+  }
+
+  footer{
+    width: 343px;
+    height: 44px;
+    margin: 0 auto;
+    background: #FFFFFF;
+    color : black;
+    border-radius: 5px;
+    box-shadow: 0px 3px 6px #DBDBDB;
+    margin-top: 44px;
+    bottom:0px; 
+    
+  }
+  footer input {
+    position: relative;
+    font-size: 16px;
+    font-family: 'Noto Sans KR' sans-serif;
+    font-weight : 300;
+    width: 270px;
+    padding: 10px;
+    border: 0px;
+    color : black;
+    outline: none;
+    background: none;
+    margin-top: 2px;
+  }
+ 
+  
+  
+  
+
